@@ -1,5 +1,9 @@
 # GFX Framework
 
+# DEMO
+https://github.com/Carusel02/EGC-world-of-tanks/assets/40697296/c15c65f2-868f-4ae9-b041-ca5d24c4558d
+
+
 ## :sparkles: Introduction
 
 This project is a tiny graphics framework used by the Computer Graphics Department of the Polytechnic University of Bucharest.
