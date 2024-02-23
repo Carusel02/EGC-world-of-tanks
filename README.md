@@ -1,5 +1,4 @@
 # GFX Framework
-
 ## DEMO
 https://github.com/Carusel02/EGC-world-of-tanks/assets/40697296/c15c65f2-868f-4ae9-b041-ca5d24c4558d
 
